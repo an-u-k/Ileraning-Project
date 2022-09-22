@@ -146,4 +146,4 @@ ALTER TABLE Student DROP COLUMN MiddleName;
 --Q17.
 EXEC sp_rename 'Student','Participa
 
---Added Normalisation 
+--Added Normalisation with Solutions
